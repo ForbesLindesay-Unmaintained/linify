@@ -1,0 +1,20 @@
+{
+  "name": "linify",
+  "version": "0.0.0",
+  "description": "Transform a file's line endings from `\\r\\n` to `\\n`.",
+  "bin": {
+    "linify": "cli.js"
+  },
+  "dependencies": {
+    "commander": "~1.2.0",
+    "minimatch": "~0.2.12"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ForbesLindesay/linify.git"
+  },
+  "license": "MIT",
+  "scripts": {
+    "prepublish": "node prepublish.js"
+  }
+}
