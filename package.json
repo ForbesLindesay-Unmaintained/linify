@@ -1,6 +1,6 @@
 {
   "name": "linify",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "Transform a file's line endings from `\\r\\n` to `\\n`.",
   "bin": {
     "linify": "cli.js"
