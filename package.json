@@ -1,10 +1,8 @@
 {
   "name": "linify",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Transform a file's line endings from `\\r\\n` to `\\n`.",
-  "bin": {
-    "linify": "cli.js"
-  },
+  "bin": "./bin/cli.js",
   "dependencies": {
     "commander": "~1.2.0",
     "minimatch": "~0.2.12"
