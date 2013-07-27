@@ -14,5 +14,6 @@
   "license": "MIT",
   "scripts": {
     "prepublish": "node prepublish.js"
-  }
+  },
+  "author": "ForbesLindesay"
 }
