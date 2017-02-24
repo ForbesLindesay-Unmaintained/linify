@@ -1,5 +1,7 @@
 # Linify
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/ForbesLindesay/linify.svg)](https://greenkeeper.io/)
+
 Transform a file's line endings from `\r\n` to `\n`.
 
 ## Installation
