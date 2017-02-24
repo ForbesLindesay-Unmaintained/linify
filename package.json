@@ -4,8 +4,8 @@
   "description": "Transform a file's line endings from `\\r\\n` to `\\n`.",
   "bin": "./bin/cli.js",
   "dependencies": {
-    "commander": "~1.2.0",
-    "minimatch": "~0.2.12"
+    "commander": "~2.9.0",
+    "minimatch": "~3.0.3"
   },
   "repository": {
     "type": "git",
