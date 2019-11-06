@@ -5,7 +5,7 @@
   "bin": "./bin/cli.js",
   "dependencies": {
     "commander": "~1.2.0",
-    "minimatch": "~0.2.12"
+    "minimatch": "~3.0.4"
   },
   "repository": {
     "type": "git",
